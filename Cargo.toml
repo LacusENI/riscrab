@@ -1,0 +1,14 @@
+[package]
+name = "riscrab"
+version = "0.1.0"
+edition = "2024"
+authors = ["Lacus 2854651899@qq.com"]
+description = ""
+license = "MIT OR Apache-2.0"
+repository = "https://github.com/LacusENI/riscrab"
+homepage = "https://github.com/LacusENI/riscrab"
+readme = "README.md"
+keywords = ["risc-v", "RV64", "emulator"]
+
+
+[dependencies]
